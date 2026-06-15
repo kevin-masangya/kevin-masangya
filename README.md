@@ -6,12 +6,7 @@
   </p>
 
   <ul>
-    <li>🔭 <b>Currently working on:</b> Student Enrollment System (C# .NET + MySQL)</li>
-    <li>🌱 <b>Learning:</b> Java Swing · Python OOP · SQL</li>
-    <li>🤝 <b>Open to collaborating on:</b> small web apps & educational tools</li>
-    <li>🤔 <b>Exploring:</b> cleaner UI design & better database structure</li>
-    <li>💬 <b>Ask me about:</b> programming basics, school projects, networking concepts</li>
-    <li>⚡ <b>Fun fact:</b> I started building small projects in 7th grade</li>
+
   </ul>
 </section>
 
