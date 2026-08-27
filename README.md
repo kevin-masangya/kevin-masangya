@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lazydev69&icon=2&color=10" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kevin-masangya&icon=2&color=10" alt="profile views" />
 </p>
 
 ---
@@ -83,12 +83,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=lazydev69&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=kevin-masangya&theme=neon&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lazydev69&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lazydev69&theme=neon&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=kevin-masangya&theme=neon&hide_border=false" alt="GitHub streak stats" />
 </p>
 
 ---
