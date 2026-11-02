@@ -98,19 +98,13 @@ philosophy: "If it works but looks bad, it's not done."
 
 <br/>
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kevin-masangya&theme=dark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img width="100%" src="https://ghchart.rshah.org/B91C1C/kevin-masangya" alt="Contribution chart" />
 
 </div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-masangya&theme=react-dark&hide_border=true&bg_color=140505&color=FF5A5A&line=B91C1C&point=ffffff&area=true&area_color=B91C1C" />
 
 <br/>
 
